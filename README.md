@@ -45,6 +45,8 @@ if __name__ == '__main__':
 
 ##### Output:
 
+![](https://github.com/Xavier-MaYiMing/Competitive-Swarm-Optimizer/blob/main/convergence%20curve.png)
+
 The CSO converges at its **3,999-th** iteration, and the global best value is **3.381813579426321e-05**. 
 
 ```python
